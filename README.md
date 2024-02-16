@@ -1,4 +1,6 @@
-<img width="950" alt="image" src="https://github.com/pratamawebdev/task-management/assets/111175973/9c2ba862-ee0a-4918-ad6b-efcc45e307a3"># React + Vite
+<img width="950" alt="image" src="https://github.com/pratamawebdev/task-management/assets/111175973/9c2ba862-ee0a-4918-ad6b-efcc45e307a3">
+
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
